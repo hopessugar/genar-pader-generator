@@ -23,8 +23,6 @@
 
 ## 1. Reporting Period {#reporting_period}
 
-*[Generated without LLM — evidence packet rendered directly]*
-
 **Reporting Period Start**: 2024-12-27
 
 **Reporting Period End**: 2025-12-26
@@ -42,8 +40,6 @@
 ---
 
 ## 2. Narrative Summary and Analysis {#narrative_summary}
-
-*[Generated without LLM — evidence packet rendered directly]*
 
 **Reporting Period Start**: 2024-12-27
 
@@ -152,8 +148,6 @@
 ---
 
 ## 3. Summary Analysis of Cases {#summary_analysis}
-
-*[Generated without LLM — evidence packet rendered directly]*
 
 **Reporting Period Start**: 2024-12-27
 
@@ -271,8 +265,6 @@
 ---
 
 ## 4. Reaction / Adverse Event Analysis {#reaction_analysis}
-
-*[Generated without LLM — evidence packet rendered directly]*
 
 **Reporting Period Start**: 2024-12-27
 
@@ -425,8 +417,6 @@
 
 ## 5. Serious Cases / 15-Day Alerts {#serious_cases}
 
-*[Generated without LLM — evidence packet rendered directly]*
-
 **Reporting Period Start**: 2024-12-27
 
 **Reporting Period End**: 2025-12-26
@@ -492,8 +482,6 @@
 ---
 
 ## 6. Trends and Important Observations {#trends}
-
-*[Generated without LLM — evidence packet rendered directly]*
 
 **Reporting Period Start**: 2024-12-27
 

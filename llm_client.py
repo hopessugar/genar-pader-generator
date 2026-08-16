@@ -126,7 +126,6 @@ def _fallback_render(section_id: str, evidence_packet: dict) -> str:
     No prose generation — just structured data presentation.
     """
     lines = []
-    lines.append(f"*[Generated without LLM — evidence packet rendered directly]*\n")
 
     for key, value in evidence_packet.items():
         if key in ("section_id", "section_name", "data_notes"):
