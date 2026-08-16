@@ -592,12 +592,27 @@ This section contains the case index for the reporting period. An inline preview
 
 A reviewer can use the case listing to trace any aggregate figure in this report back to the individual cases that contributed to it.
 
-**Preview** (first 0 of 0 cases):
+**Preview** (first 15 of 1024 cases):
 
 | Case ID | Reaction(s) | Seriousness | Receive Date | Country | Outcome(s) |
 |---------|-------------|-------------|--------------|---------|------------|
+| 24780403 | Rectal haemorrhage,Deficiency anaemia | serious | 20241227 | italy | unknown,unknown |
+| 24780599 | Coma | serious | 20241227 | france | recovered/resolved |
+| 24780680 | Acute kidney injury | serious | 20241227 | france | recovered/resolved |
+| 24784771 | Muscle spasms | serious | 20241228 | united kingdom | recovered/resolved |
+| 24784845 | Chest pain,Anxiety,Panic attack | serious | 20241228 | united kingdom | not recovered/not resolved/ongoing,re... |
+| 24784920 | Genital burning sensation | serious | 20241228 | united kingdom | not recovered/not resolved/ongoing |
+| 24784985 | Pemphigoid | serious | 20241228 | united kingdom | unknown |
+| 24784989 | Drug interaction,Hypersensitivity | serious | 20241228 | united kingdom | unknown,unknown |
+| 24787006 | Bradycardia,Medication error | serious | 20241230 | united kingdom | not recovered/not resolved/ongoing,un... |
+| 24787240 | Muscle twitching,Muscle spasms | serious | 20241230 | united kingdom | not recovered/not resolved/ongoing,no... |
+| 24787307 | Cardiac arrest | serious | 20241230 | united kingdom | recovering/resolving |
+| 24787627 | Hypoglycaemia,Acidosis | serious | 20241230 | italy | recovering/resolving,recovering/resol... |
+| 24791327 | Cardiac failure | serious | 20241231 | france | not recovered/not resolved/ongoing |
+| 24791598 | Hepatic cytolysis | serious | 20241231 | france | recovering/resolving |
+| 24791831 | Cardiogenic shock | serious | 20241231 | united kingdom | unknown |
 
-**Full listing**: See [case_listing.csv](case_listing.csv) (0 cases total)
+**Full listing**: See [case_listing.csv](case_listing.csv) (1024 cases total)
 
 ---
 

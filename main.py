@@ -126,7 +126,7 @@ def main():
 
         # Generate special case listing section
         print("      Generating Case Index / Listing inline preview...")
-        sections["case_listing"] = build_case_listing_section(analyses["case_listing"])
+        sections["case_listing"] = build_case_listing_section(analyses["case_listing"]["data"])
 
         if args.auto_approve:
             print("      --auto-approve flag present. Skipping human review gate.")
@@ -163,7 +163,7 @@ def main():
     assemble_report(sections, config, data.reporting_period)
     print("      Report written to output/report.md")
 
-    write_case_listing_csv(analyses["case_listing"])
+    write_case_listing_csv(analyses["case_listing"]["data"])
     print("      Case listing written to output/case_listing.csv")
 
     print("\nPipeline completed successfully!")
