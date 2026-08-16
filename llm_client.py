@@ -68,8 +68,9 @@ def _call_llm(
     evidence_packet: dict,
     section_config: SectionConfig,
 ) -> str:
-    """Make an Anthropic Claude API call for one section."""
-    import anthropic
+    """Make a Gemini API call for one section."""
+    from google import genai
+    from google.genai import types
 
     # Load prompts
     system_prompt = _load_prompt("system.txt")
@@ -80,26 +81,28 @@ def _call_llm(
     user_message = section_template.replace("{evidence_packet}", formatted_packet)
 
     # API configuration from environment
-    model = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-5")
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    model_name = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
+    api_key = os.environ.get("GEMINI_API_KEY", "")
 
     if not api_key:
         raise ValueError(
-            "ANTHROPIC_API_KEY not set. Set it in .env or environment, "
+            "GEMINI_API_KEY not set. Set it in .env or environment, "
             "or use --no-llm for template fallback."
         )
 
-    client = anthropic.Anthropic(api_key=api_key)
-
-    response = client.messages.create(
-        model=model,
-        max_tokens=2000,
-        temperature=0.2,
-        system=system_prompt,
-        messages=[{"role": "user", "content": user_message}],
+    client = genai.Client(api_key=api_key)
+    
+    response = client.models.generate_content(
+        model=model_name,
+        contents=user_message,
+        config=types.GenerateContentConfig(
+            system_instruction=system_prompt,
+            temperature=0.2,
+            max_output_tokens=2000,
+        )
     )
 
-    return response.content[0].text
+    return response.text
 
 
 def _load_prompt(filename: str) -> str:

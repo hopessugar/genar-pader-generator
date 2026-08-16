@@ -118,8 +118,8 @@ def main():
         print("\n[4/7] Generating sections...")
         use_llm = not args.no_llm
         if use_llm:
-            if not os.environ.get("ANTHROPIC_API_KEY"):
-                print("      WARNING: ANTHROPIC_API_KEY not found. LLM calls will fail.")
+            if not os.environ.get("GEMINI_API_KEY"):
+                print("      WARNING: GEMINI_API_KEY not found. LLM calls will fail.")
                 print("      Run with --no-llm to use template fallback.")
         
         sections = generate_all_sections(evidence_packets, config, use_llm)

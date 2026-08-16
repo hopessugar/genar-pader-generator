@@ -106,11 +106,11 @@
           "count": 23
         },
         {
-          "reaction": "Toxicity to various agents",
+          "reaction": "Confusional state",
           "count": 23
         },
         {
-          "reaction": "Confusional state",
+          "reaction": "Toxicity to various agents",
           "count": 23
         }
       ]
@@ -161,11 +161,11 @@
           "count": 33
         },
         {
-          "reaction": "Fall",
+          "reaction": "Condition aggravated",
           "count": 30
         },
         {
-          "reaction": "Condition aggravated",
+          "reaction": "Fall",
           "count": 30
         },
         {
@@ -189,15 +189,15 @@
           "count": 24
         },
         {
-          "reaction": "Toxicity to various agents",
-          "count": 23
-        },
-        {
           "reaction": "Syncope",
           "count": 23
         },
         {
           "reaction": "Confusional state",
+          "count": 23
+        },
+        {
+          "reaction": "Toxicity to various agents",
           "count": 23
         }
       ]
@@ -452,12 +452,12 @@
           "pct": 0.2
         },
         {
-          "country": "UA",
+          "country": "HR",
           "count": 2,
           "pct": 0.2
         },
         {
-          "country": "HR",
+          "country": "UA",
           "count": 2,
           "pct": 0.2
         },
@@ -670,11 +670,11 @@
           "count": 23
         },
         {
-          "reaction": "Toxicity to various agents",
+          "reaction": "Confusional state",
           "count": 23
         },
         {
-          "reaction": "Confusional state",
+          "reaction": "Toxicity to various agents",
           "count": 23
         }
       ]
@@ -725,11 +725,11 @@
           "count": 33
         },
         {
-          "reaction": "Fall",
+          "reaction": "Condition aggravated",
           "count": 30
         },
         {
-          "reaction": "Condition aggravated",
+          "reaction": "Fall",
           "count": 30
         },
         {
@@ -753,15 +753,15 @@
           "count": 24
         },
         {
-          "reaction": "Toxicity to various agents",
-          "count": 23
-        },
-        {
           "reaction": "Syncope",
           "count": 23
         },
         {
           "reaction": "Confusional state",
+          "count": 23
+        },
+        {
+          "reaction": "Toxicity to various agents",
           "count": 23
         }
       ]
@@ -810,7 +810,7 @@
             "count": 15
           },
           {
-            "reaction": "Arthralgia",
+            "reaction": "Drug interaction",
             "count": 11
           }
         ],
@@ -850,11 +850,11 @@
             "count": 3
           },
           {
-            "reaction": "Neonatal respiratory depression",
+            "reaction": "Foetal heart rate disorder",
             "count": 1
           },
           {
-            "reaction": "Foetal heart rate disorder",
+            "reaction": "Neonatal respiratory depression",
             "count": 1
           }
         ],
@@ -862,6 +862,10 @@
           {
             "reaction": "Drug ineffective",
             "count": 4
+          },
+          {
+            "reaction": "Menstruation delayed",
+            "count": 1
           },
           {
             "reaction": "Intermenstrual bleeding",
@@ -874,10 +878,6 @@
           {
             "reaction": "Kounis syndrome",
             "count": 1
-          },
-          {
-            "reaction": "Menstruation delayed",
-            "count": 1
           }
         ],
         "Child": [
@@ -886,11 +886,11 @@
             "count": 2
           },
           {
-            "reaction": "Bone metabolism disorder",
+            "reaction": "Myocardial injury",
             "count": 2
           },
           {
-            "reaction": "Myocardial injury",
+            "reaction": "Bone metabolism disorder",
             "count": 2
           },
           {
@@ -926,7 +926,7 @@
             "count": 23
           },
           {
-            "reaction": "Fall",
+            "reaction": "Bradycardia",
             "count": 22
           }
         ],
@@ -1251,12 +1251,12 @@
           "pct": 0.2
         },
         {
-          "country": "UA",
+          "country": "HR",
           "count": 2,
           "pct": 0.2
         },
         {
-          "country": "HR",
+          "country": "UA",
           "count": 2,
           "pct": 0.2
         },
@@ -1360,11 +1360,11 @@
           "count": 23
         },
         {
-          "reaction": "Toxicity to various agents",
+          "reaction": "Confusional state",
           "count": 23
         },
         {
-          "reaction": "Confusional state",
+          "reaction": "Toxicity to various agents",
           "count": 23
         }
       ]

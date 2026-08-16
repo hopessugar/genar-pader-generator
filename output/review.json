@@ -1,7 +1,7 @@
 {
   "sections": {
     "reporting_period": {
-      "generated_text": "**Reporting Period Start**: 2024-12-27\n\n**Reporting Period End**: 2025-12-26\n\n**Product Name**: Bisoprolol\n\n\n**Data Notes**:\n\n- Total rows in dataset: 1068, unique cases: 1024\n- Flagged rows excluded from reaction-level analyses: 6 (reaction/outcome count mismatch)\n- SOC-level analysis unavailable (no SOC field in dataset; reactions reported at MedDRA Preferred Term level only)\n- Expectedness assessment out of scope (no product label/CCDS supplied)",
+      "generated_text": "This Periodic Adverse Drug Experience Report (PADER) is submitted for Bisoprolol in accordance with regulatory requirements under 21 CFR 314.80. The reporting period covered by this report is from December 27, 2024, through December 26, 2025.\n\nThe dataset utilized for this reporting period contained 1,068 total rows, representing 1,024 unique cases. Six flagged rows were excluded from reaction-level analyses due to a reaction/outcome count mismatch. Additionally, System Organ Class (SOC)-level analysis was unavailable for this period as there was no SOC field in the dataset, and reactions were reported at the MedDRA Preferred Term level only. An expectedness assessment was out of scope for this report because no product label or Company Core Data Sheet (CCDS) was supplied.",
       "evidence_packet": {
         "section_id": "reporting_period",
         "section_name": "Reporting Period",
@@ -19,7 +19,7 @@
       "comment": null
     },
     "narrative_summary": {
-      "generated_text": "**Reporting Period Start**: 2024-12-27\n\n**Reporting Period End**: 2025-12-26\n\n**Product Name**: Bisoprolol\n\n**Total Cases**:\n\n- Total: 1024\n**Serious Breakdown**:\n\n- Serious: 1023\n- Non Serious: 1\n- Total: 1024\n- Serious Pct: 99.9\n- Non Serious Pct: 0.1\n**Top Reactions**:\n\n- Total Reactions Counted: 3590\n- Flagged Rows Excluded: 6\n- Top N: 20\n- **Reactions**:\n  - reaction: Acute kidney injury, count: 80\n  - reaction: Drug ineffective, count: 60\n  - reaction: Hypotension, count: 48\n  - reaction: Drug interaction, count: 44\n  - reaction: Dizziness, count: 40\n  - reaction: Bradycardia, count: 39\n  - reaction: Dyspnoea, count: 39\n  - reaction: Fatigue, count: 35\n  - reaction: Off label use, count: 34\n  - reaction: Diarrhoea, count: 33\n  - reaction: Condition aggravated, count: 30\n  - reaction: Fall, count: 30\n  - reaction: Asthenia, count: 28\n  - reaction: Medication error, count: 27\n  - reaction: Hypokalaemia, count: 26\n  - reaction: Hyponatraemia, count: 25\n  - reaction: Arthralgia, count: 24\n  - reaction: Syncope, count: 23\n  - reaction: Toxicity to various agents, count: 23\n  - reaction: Confusional state, count: 23\n**Top Serious Reactions**:\n\n- Total Serious Reactions Counted: 3587\n- Flagged Rows Excluded: 6\n- Top N: 20\n- **Reactions**:\n  - reaction: Acute kidney injury, count: 80\n  - reaction: Drug ineffective, count: 59\n  - reaction: Hypotension, count: 48\n  - reaction: Drug interaction, count: 44\n  - reaction: Dizziness, count: 40\n  - reaction: Bradycardia, count: 39\n  - reaction: Dyspnoea, count: 39\n  - reaction: Fatigue, count: 35\n  - reaction: Off label use, count: 34\n  - reaction: Diarrhoea, count: 33\n  - reaction: Fall, count: 30\n  - reaction: Condition aggravated, count: 30\n  - reaction: Asthenia, count: 28\n  - reaction: Medication error, count: 27\n  - reaction: Hypokalaemia, count: 26\n  - reaction: Hyponatraemia, count: 25\n  - reaction: Arthralgia, count: 24\n  - reaction: Toxicity to various agents, count: 23\n  - reaction: Syncope, count: 23\n  - reaction: Confusional state, count: 23\n**Outcome Distribution**:\n\n- Total Outcomes Counted: 3590\n- Flagged Rows Excluded: 6\n- **Outcomes**:\n  - outcome: recovered/resolved, count: 1324, pct: 36.9\n  - outcome: unknown, count: 1130, pct: 31.5\n  - outcome: not recovered/not resolved/ongoing, count: 545, pct: 15.2\n  - outcome: recovering/resolving, count: 420, pct: 11.7\n  - outcome: fatal, count: 137, pct: 3.8\n  - outcome: recovered/resolved with sequelae, count: 34, pct: 0.9\n**Monthly Case Volume**:\n\n- **Months**:\n  - month: 2024-12, count: 21\n  - month: 2025-01, count: 75\n  - month: 2025-02, count: 94\n  - month: 2025-03, count: 83\n  - month: 2025-04, count: 78\n  - month: 2025-05, count: 80\n  - month: 2025-06, count: 84\n  - month: 2025-07, count: 109\n  - month: 2025-08, count: 64\n  - month: 2025-09, count: 76\n  - month: 2025-10, count: 102\n  - month: 2025-11, count: 75\n  - month: 2025-12, count: 83\n- Total Months: 13\n\n**Data Notes**:\n\n- Total rows in dataset: 1068, unique cases: 1024\n- Flagged rows excluded from reaction-level analyses: 6 (reaction/outcome count mismatch)\n- SOC-level analysis unavailable (no SOC field in dataset; reactions reported at MedDRA Preferred Term level only)\n- Expectedness assessment out of scope (no product label/CCDS supplied)",
+      "generated_text": "During the reporting period from December 27, 2024, to December 26, 2025, a total of 1,024 unique cases (from a total of 1,068 rows in the dataset) were received for Bisoprolol. \n\n### Case Volume and Seriousness Breakdown\nOf the 1,02",
       "evidence_packet": {
         "section_id": "narrative_summary",
         "section_name": "Narrative Summary and Analysis",
@@ -114,11 +114,11 @@
               "count": 23
             },
             {
-              "reaction": "Toxicity to various agents",
+              "reaction": "Confusional state",
               "count": 23
             },
             {
-              "reaction": "Confusional state",
+              "reaction": "Toxicity to various agents",
               "count": 23
             }
           ]
@@ -169,11 +169,11 @@
               "count": 33
             },
             {
-              "reaction": "Fall",
+              "reaction": "Condition aggravated",
               "count": 30
             },
             {
-              "reaction": "Condition aggravated",
+              "reaction": "Fall",
               "count": 30
             },
             {
@@ -197,15 +197,15 @@
               "count": 24
             },
             {
-              "reaction": "Toxicity to various agents",
-              "count": 23
-            },
-            {
               "reaction": "Syncope",
               "count": 23
             },
             {
               "reaction": "Confusional state",
+              "count": 23
+            },
+            {
+              "reaction": "Toxicity to various agents",
               "count": 23
             }
           ]
@@ -314,7 +314,7 @@
       "comment": null
     },
     "summary_analysis": {
-      "generated_text": "**Reporting Period Start**: 2024-12-27\n\n**Reporting Period End**: 2025-12-26\n\n**Product Name**: Bisoprolol\n\n**Total Cases**:\n\n- Total: 1024\n**Serious Breakdown**:\n\n- Serious: 1023\n- Non Serious: 1\n- Total: 1024\n- Serious Pct: 99.9\n- Non Serious Pct: 0.1\n**Age Group Breakdown**:\n\n- Total: 1024\n- **Groups**:\n  - age_group: Elderly, count: 673, pct: 65.7\n  - age_group: Adult, count: 248, pct: 24.2\n  - age_group: Unknown, count: 87, pct: 8.5\n  - age_group: Neonate, count: 6, pct: 0.6\n  - age_group: Adolescent, count: 6, pct: 0.6\n  - age_group: Child, count: 4, pct: 0.4\n**Sex Breakdown**:\n\n- Total: 1024\n- **Groups**:\n  - sex: female, count: 503, pct: 49.1\n  - sex: male, count: 493, pct: 48.1\n  - sex: Unknown, count: 28, pct: 2.7\n**Country Breakdown**:\n\n- Total: 1024\n- **Countries**:\n  - country: eu, count: 327, pct: 31.9\n  - country: united kingdom, count: 281, pct: 27.4\n  - country: france, count: 187, pct: 18.3\n  - country: canada, count: 56, pct: 5.5\n  - country: italy, count: 52, pct: 5.1\n  - country: germany, count: 39, pct: 3.8\n  - country: spain, count: 26, pct: 2.5\n  - country: poland, count: 21, pct: 2.1\n  - country: portugal, count: 9, pct: 0.9\n  - country: united states, count: 5, pct: 0.5\n  - country: belgium, count: 4, pct: 0.4\n  - country: IE, count: 3, pct: 0.3\n  - country: RO, count: 2, pct: 0.2\n  - country: sweden, count: 2, pct: 0.2\n  - country: SA, count: 2, pct: 0.2\n  - country: UA, count: 2, pct: 0.2\n  - country: HR, count: 2, pct: 0.2\n  - country: FI, count: 1, pct: 0.1\n  - country: australia, count: 1, pct: 0.1\n  - country: indonesia, count: 1, pct: 0.1\n  - country: china, count: 1, pct: 0.1\n**Outcome Distribution**:\n\n- Total Outcomes Counted: 3590\n- Flagged Rows Excluded: 6\n- **Outcomes**:\n  - outcome: recovered/resolved, count: 1324, pct: 36.9\n  - outcome: unknown, count: 1130, pct: 31.5\n  - outcome: not recovered/not resolved/ongoing, count: 545, pct: 15.2\n  - outcome: recovering/resolving, count: 420, pct: 11.7\n  - outcome: fatal, count: 137, pct: 3.8\n  - outcome: recovered/resolved with sequelae, count: 34, pct: 0.9\n**Seriousness Criteria**:\n\n- Total: 1024\n- **Criteria**:\n  - **Seriousnessdeath**:\n    - Label: Death\n    - Count: 67\n    - Pct: 6.5\n  - **Seriousnesslifethreatening**:\n    - Label: Life-threatening\n    - Count: 105\n    - Pct: 10.3\n  - **Seriousnesshospitalization**:\n    - Label: Hospitalization\n    - Count: 480\n    - Pct: 46.9\n  - **Seriousnessdisabling**:\n    - Label: Disabling\n    - Count: 43\n    - Pct: 4.2\n  - **Seriousnesscongenitalanomali**:\n    - Label: Congenital anomaly\n    - Count: 7\n    - Pct: 0.7\n  - **Seriousnessother**:\n    - Label: Other medically important\n    - Count: 905\n    - Pct: 88.4\n**Reporter Breakdown**:\n\n- Total: 1024\n- **Reporters**:\n  - reporter_type: physician, count: 493, pct: 48.1\n  - reporter_type: pharmacist, count: 255, pct: 24.9\n  - reporter_type: other health professional, count: 161, pct: 15.7\n  - reporter_type: consumer or non-health professional, count: 115, pct: 11.2\n\n**Data Notes**:\n\n- Total rows in dataset: 1068, unique cases: 1024\n- Flagged rows excluded from reaction-level analyses: 6 (reaction/outcome count mismatch)\n- SOC-level analysis unavailable (no SOC field in dataset; reactions reported at MedDRA Preferred Term level only)\n- Expectedness assessment out of scope (no product label/CCDS supplied)",
+      "generated_text": "During the reporting period from December 27, 2024, to December 26, 2025, a total of 1,024 unique cases (out of 1,068 total rows in the dataset) were received for Bisoprolol. \n\nSeveral data limitations are noted for this dataset. First, System",
       "evidence_packet": {
         "section_id": "summary_analysis",
         "section_name": "Summary Analysis of Cases",
@@ -465,12 +465,12 @@
               "pct": 0.2
             },
             {
-              "country": "UA",
+              "country": "HR",
               "count": 2,
               "pct": 0.2
             },
             {
-              "country": "HR",
+              "country": "UA",
               "count": 2,
               "pct": 0.2
             },
@@ -603,7 +603,7 @@
       "comment": null
     },
     "reaction_analysis": {
-      "generated_text": "**Reporting Period Start**: 2024-12-27\n\n**Reporting Period End**: 2025-12-26\n\n**Product Name**: Bisoprolol\n\n**Top Reactions**:\n\n- Total Reactions Counted: 3590\n- Flagged Rows Excluded: 6\n- Top N: 20\n- **Reactions**:\n  - reaction: Acute kidney injury, count: 80\n  - reaction: Drug ineffective, count: 60\n  - reaction: Hypotension, count: 48\n  - reaction: Drug interaction, count: 44\n  - reaction: Dizziness, count: 40\n  - reaction: Bradycardia, count: 39\n  - reaction: Dyspnoea, count: 39\n  - reaction: Fatigue, count: 35\n  - reaction: Off label use, count: 34\n  - reaction: Diarrhoea, count: 33\n  - reaction: Condition aggravated, count: 30\n  - reaction: Fall, count: 30\n  - reaction: Asthenia, count: 28\n  - reaction: Medication error, count: 27\n  - reaction: Hypokalaemia, count: 26\n  - reaction: Hyponatraemia, count: 25\n  - reaction: Arthralgia, count: 24\n  - reaction: Syncope, count: 23\n  - reaction: Toxicity to various agents, count: 23\n  - reaction: Confusional state, count: 23\n**Top Serious Reactions**:\n\n- Total Serious Reactions Counted: 3587\n- Flagged Rows Excluded: 6\n- Top N: 20\n- **Reactions**:\n  - reaction: Acute kidney injury, count: 80\n  - reaction: Drug ineffective, count: 59\n  - reaction: Hypotension, count: 48\n  - reaction: Drug interaction, count: 44\n  - reaction: Dizziness, count: 40\n  - reaction: Bradycardia, count: 39\n  - reaction: Dyspnoea, count: 39\n  - reaction: Fatigue, count: 35\n  - reaction: Off label use, count: 34\n  - reaction: Diarrhoea, count: 33\n  - reaction: Fall, count: 30\n  - reaction: Condition aggravated, count: 30\n  - reaction: Asthenia, count: 28\n  - reaction: Medication error, count: 27\n  - reaction: Hypokalaemia, count: 26\n  - reaction: Hyponatraemia, count: 25\n  - reaction: Arthralgia, count: 24\n  - reaction: Toxicity to various agents, count: 23\n  - reaction: Syncope, count: 23\n  - reaction: Confusional state, count: 23\n**Reactions By Age**:\n\n- Flagged Rows Excluded: 6\n- Top N Per Group: 5\n- **Groups**:\n  - **Elderly**:\n    - reaction: Acute kidney injury, count: 61\n    - reaction: Hypotension, count: 36\n    - reaction: Dizziness, count: 31\n    - reaction: Drug interaction, count: 30\n    - reaction: Fall, count: 29\n  - **Adult**:\n    - reaction: Drug ineffective, count: 28\n    - reaction: Acute kidney injury, count: 18\n    - reaction: Condition aggravated, count: 16\n    - reaction: Off label use, count: 15\n    - reaction: Arthralgia, count: 11\n  - **Unknown**:\n    - reaction: Maternal exposure during pregnancy, count: 10\n    - reaction: Foetal growth restriction, count: 7\n    - reaction: Medication error, count: 6\n    - reaction: Diarrhoea, count: 5\n    - reaction: Off label use, count: 5\n  - **Neonate**:\n    - reaction: Maternal exposure during pregnancy, count: 4\n    - reaction: Premature baby, count: 4\n    - reaction: Foetal growth restriction, count: 3\n    - reaction: Neonatal respiratory depression, count: 1\n    - reaction: Foetal heart rate disorder, count: 1\n  - **Adolescent**:\n    - reaction: Drug ineffective, count: 4\n    - reaction: Intermenstrual bleeding, count: 1\n    - reaction: Menstruation irregular, count: 1\n    - reaction: Kounis syndrome, count: 1\n    - reaction: Menstruation delayed, count: 1\n  - **Child**:\n    - reaction: Off label use, count: 2\n    - reaction: Bone metabolism disorder, count: 2\n    - reaction: Myocardial injury, count: 2\n    - reaction: Accidental overdose, count: 2\n    - reaction: Hypertriglyceridaemia, count: 1\n**Reactions By Sex**:\n\n- Flagged Rows Excluded: 6\n- Top N Per Group: 5\n- **Groups**:\n  - **Female**:\n    - reaction: Acute kidney injury, count: 33\n    - reaction: Dizziness, count: 31\n    - reaction: Drug ineffective, count: 29\n    - reaction: Drug interaction, count: 23\n    - reaction: Fall, count: 22\n  - **Male**:\n    - reaction: Acute kidney injury, count: 44\n    - reaction: Drug ineffective, count: 30\n    - reaction: Hypotension, count: 24\n    - reaction: Dyspnoea, count: 23\n    - reaction: Drug interaction, count: 21\n  - **Unknown**:\n    - reaction: Acute kidney injury, count: 3\n    - reaction: Off label use, count: 3\n    - reaction: Atrioventricular block, count: 2\n    - reaction: Blindness transient, count: 2\n    - reaction: Epistaxis, count: 2\n**Monthly Case Volume**:\n\n- **Months**:\n  - month: 2024-12, count: 21\n  - month: 2025-01, count: 75\n  - month: 2025-02, count: 94\n  - month: 2025-03, count: 83\n  - month: 2025-04, count: 78\n  - month: 2025-05, count: 80\n  - month: 2025-06, count: 84\n  - month: 2025-07, count: 109\n  - month: 2025-08, count: 64\n  - month: 2025-09, count: 76\n  - month: 2025-10, count: 102\n  - month: 2025-11, count: 75\n  - month: 2025-12, count: 83\n- Total Months: 13\n\n**Data Notes**:\n\n- Total rows in dataset: 1068, unique cases: 1024\n- Flagged rows excluded from reaction-level analyses: 6 (reaction/outcome count mismatch)\n- SOC-level analysis unavailable (no SOC field in dataset; reactions reported at MedDRA Preferred Term level only)\n- Expectedness assessment out of scope (no product label/CCDS supplied)",
+      "generated_text": "During the reporting period from December 27, 2024, to December 26, 2025, a total of 1,068 rows representing 1,024 unique cases were analyzed for Bisoprolol. \n\n### Data Limitations and Scope\nSeveral limitations apply to the dataset and the subsequent analyses:\n* **",
       "evidence_packet": {
         "section_id": "reaction_analysis",
         "section_name": "Reaction / Adverse Event Analysis",
@@ -688,11 +688,11 @@
               "count": 23
             },
             {
-              "reaction": "Toxicity to various agents",
+              "reaction": "Confusional state",
               "count": 23
             },
             {
-              "reaction": "Confusional state",
+              "reaction": "Toxicity to various agents",
               "count": 23
             }
           ]
@@ -743,11 +743,11 @@
               "count": 33
             },
             {
-              "reaction": "Fall",
+              "reaction": "Condition aggravated",
               "count": 30
             },
             {
-              "reaction": "Condition aggravated",
+              "reaction": "Fall",
               "count": 30
             },
             {
@@ -771,15 +771,15 @@
               "count": 24
             },
             {
-              "reaction": "Toxicity to various agents",
-              "count": 23
-            },
-            {
               "reaction": "Syncope",
               "count": 23
             },
             {
               "reaction": "Confusional state",
+              "count": 23
+            },
+            {
+              "reaction": "Toxicity to various agents",
               "count": 23
             }
           ]
@@ -828,7 +828,7 @@
                 "count": 15
               },
               {
-                "reaction": "Arthralgia",
+                "reaction": "Drug interaction",
                 "count": 11
               }
             ],
@@ -868,11 +868,11 @@
                 "count": 3
               },
               {
-                "reaction": "Neonatal respiratory depression",
+                "reaction": "Foetal heart rate disorder",
                 "count": 1
               },
               {
-                "reaction": "Foetal heart rate disorder",
+                "reaction": "Neonatal respiratory depression",
                 "count": 1
               }
             ],
@@ -880,6 +880,10 @@
               {
                 "reaction": "Drug ineffective",
                 "count": 4
+              },
+              {
+                "reaction": "Menstruation delayed",
+                "count": 1
               },
               {
                 "reaction": "Intermenstrual bleeding",
@@ -892,10 +896,6 @@
               {
                 "reaction": "Kounis syndrome",
                 "count": 1
-              },
-              {
-                "reaction": "Menstruation delayed",
-                "count": 1
               }
             ],
             "Child": [
@@ -904,11 +904,11 @@
                 "count": 2
               },
               {
-                "reaction": "Bone metabolism disorder",
+                "reaction": "Myocardial injury",
                 "count": 2
               },
               {
-                "reaction": "Myocardial injury",
+                "reaction": "Bone metabolism disorder",
                 "count": 2
               },
               {
@@ -944,7 +944,7 @@
                 "count": 23
               },
               {
-                "reaction": "Fall",
+                "reaction": "Bradycardia",
                 "count": 22
               }
             ],
@@ -1062,7 +1062,7 @@
       "comment": null
     },
     "serious_cases": {
-      "generated_text": "**Reporting Period Start**: 2024-12-27\n\n**Reporting Period End**: 2025-12-26\n\n**Product Name**: Bisoprolol\n\n**Serious Breakdown**:\n\n- Serious: 1023\n- Non Serious: 1\n- Total: 1024\n- Serious Pct: 99.9\n- Non Serious Pct: 0.1\n**Expedited Breakdown**:\n\n- Expedited: 1023\n- Non Expedited: 1\n- Total: 1024\n- Expedited Pct: 99.9\n- **Seriousness Criteria**:\n  - Seriousnessdeath: 67\n  - Seriousnesslifethreatening: 105\n  - Seriousnesshospitalization: 480\n  - Seriousnessdisabling: 43\n  - Seriousnesscongenitalanomali: 7\n  - Seriousnessother: 905\n**Seriousness Criteria**:\n\n- Total: 1024\n- **Criteria**:\n  - **Seriousnessdeath**:\n    - Label: Death\n    - Count: 67\n    - Pct: 6.5\n  - **Seriousnesslifethreatening**:\n    - Label: Life-threatening\n    - Count: 105\n    - Pct: 10.3\n  - **Seriousnesshospitalization**:\n    - Label: Hospitalization\n    - Count: 480\n    - Pct: 46.9\n  - **Seriousnessdisabling**:\n    - Label: Disabling\n    - Count: 43\n    - Pct: 4.2\n  - **Seriousnesscongenitalanomali**:\n    - Label: Congenital anomaly\n    - Count: 7\n    - Pct: 0.7\n  - **Seriousnessother**:\n    - Label: Other medically important\n    - Count: 905\n    - Pct: 88.4\n\n**Data Notes**:\n\n- Total rows in dataset: 1068, unique cases: 1024\n- Flagged rows excluded from reaction-level analyses: 6 (reaction/outcome count mismatch)\n- SOC-level analysis unavailable (no SOC field in dataset; reactions reported at MedDRA Preferred Term level only)\n- Expectedness assessment out of scope (no product label/CCDS supplied)",
+      "generated_text": "During the reporting period from December 27, 2024, to December 26, 2025, a total of 1,024 unique cases were reported for Bisoprolol. Of these, 1,023 cases (99.9%) were classified as serious, and 1 case (0.1%) was classified as non-serious. \n\nAn analysis of expedited reporting status showed that 1,023 cases (99.9%) met the criteria for expedited 15-day Alerts, while 1 case was non-expedited. The serious and expedited populations within this dataset are nearly identical. This high degree of overlap is expected for spontaneous Individual Case Safety Report (ICSR) data and does not represent an anomaly.\n\nThe seriousness criteria for the 1,024 cases were evaluated. Because these criteria are captured as independent flags and are not mutually exclusive, a single case may fulfill multiple seriousness criteria. The breakdown of individual seriousness criteria is as follows:\n\n*   **Other medically important:** 905 cases (88.4%)\n*   **Hospitalization:** 480 cases (46.9%)\n*   **Life-threatening:** 105 cases (10.3%)\n*",
       "evidence_packet": {
         "section_id": "serious_cases",
         "section_name": "Serious Cases / 15-Day Alerts",
@@ -1136,7 +1136,7 @@
       "comment": null
     },
     "trends": {
-      "generated_text": "**Reporting Period Start**: 2024-12-27\n\n**Reporting Period End**: 2025-12-26\n\n**Product Name**: Bisoprolol\n\n**Monthly Case Volume**:\n\n- **Months**:\n  - month: 2024-12, count: 21\n  - month: 2025-01, count: 75\n  - month: 2025-02, count: 94\n  - month: 2025-03, count: 83\n  - month: 2025-04, count: 78\n  - month: 2025-05, count: 80\n  - month: 2025-06, count: 84\n  - month: 2025-07, count: 109\n  - month: 2025-08, count: 64\n  - month: 2025-09, count: 76\n  - month: 2025-10, count: 102\n  - month: 2025-11, count: 75\n  - month: 2025-12, count: 83\n- Total Months: 13\n**Country Breakdown**:\n\n- Total: 1024\n- **Countries**:\n  - country: eu, count: 327, pct: 31.9\n  - country: united kingdom, count: 281, pct: 27.4\n  - country: france, count: 187, pct: 18.3\n  - country: canada, count: 56, pct: 5.5\n  - country: italy, count: 52, pct: 5.1\n  - country: germany, count: 39, pct: 3.8\n  - country: spain, count: 26, pct: 2.5\n  - country: poland, count: 21, pct: 2.1\n  - country: portugal, count: 9, pct: 0.9\n  - country: united states, count: 5, pct: 0.5\n  - country: belgium, count: 4, pct: 0.4\n  - country: IE, count: 3, pct: 0.3\n  - country: RO, count: 2, pct: 0.2\n  - country: sweden, count: 2, pct: 0.2\n  - country: SA, count: 2, pct: 0.2\n  - country: UA, count: 2, pct: 0.2\n  - country: HR, count: 2, pct: 0.2\n  - country: FI, count: 1, pct: 0.1\n  - country: australia, count: 1, pct: 0.1\n  - country: indonesia, count: 1, pct: 0.1\n  - country: china, count: 1, pct: 0.1\n**Top Reactions**:\n\n- Total Reactions Counted: 3590\n- Flagged Rows Excluded: 6\n- Top N: 20\n- **Reactions**:\n  - reaction: Acute kidney injury, count: 80\n  - reaction: Drug ineffective, count: 60\n  - reaction: Hypotension, count: 48\n  - reaction: Drug interaction, count: 44\n  - reaction: Dizziness, count: 40\n  - reaction: Bradycardia, count: 39\n  - reaction: Dyspnoea, count: 39\n  - reaction: Fatigue, count: 35\n  - reaction: Off label use, count: 34\n  - reaction: Diarrhoea, count: 33\n  - reaction: Condition aggravated, count: 30\n  - reaction: Fall, count: 30\n  - reaction: Asthenia, count: 28\n  - reaction: Medication error, count: 27\n  - reaction: Hypokalaemia, count: 26\n  - reaction: Hyponatraemia, count: 25\n  - reaction: Arthralgia, count: 24\n  - reaction: Syncope, count: 23\n  - reaction: Toxicity to various agents, count: 23\n  - reaction: Confusional state, count: 23\n\n**Data Notes**:\n\n- Total rows in dataset: 1068, unique cases: 1024\n- Flagged rows excluded from reaction-level analyses: 6 (reaction/outcome count mismatch)\n- SOC-level analysis unavailable (no SOC field in dataset; reactions reported at MedDRA Preferred Term level only)\n- Expectedness assessment out of scope (no product label/CCDS supplied)",
+      "generated_text": " (Ireland): 3 cases (0.3%)\n            *   RO (Romania): 2 cases (0.2%)\n            *   Sweden: 2 cases (0.2%)\n            *   SA (Saudi Arabia): 2 cases (0.2%)\n            *   HR (Croatia): 2 cases (0.2%)\n            *   UA",
       "evidence_packet": {
         "section_id": "trends",
         "section_name": "Trends and Important Observations",
@@ -1279,12 +1279,12 @@
               "pct": 0.2
             },
             {
-              "country": "UA",
+              "country": "HR",
               "count": 2,
               "pct": 0.2
             },
             {
-              "country": "HR",
+              "country": "UA",
               "count": 2,
               "pct": 0.2
             },
@@ -1388,11 +1388,11 @@
               "count": 23
             },
             {
-              "reaction": "Toxicity to various agents",
+              "reaction": "Confusional state",
               "count": 23
             },
             {
-              "reaction": "Confusional state",
+              "reaction": "Toxicity to various agents",
               "count": 23
             }
           ]
