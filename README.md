@@ -1,10 +1,12 @@
 # GenAR PADER Report Generator (Version 0)
 
+[**Read the Version 1 Architecture & Design Document here**](version1/design.md)
+
 This system ingests a pharmacovigilance adverse-event dataset (ICSR/FAERS-style) and produces a structured, evidence-grounded PADER-style safety report.
 
 ## 1. How to Run
 
-**Prerequisites:** Python 3.10+, an Anthropic API key.
+**Prerequisites:** Python 3.10+, a Gemini API key.
 
 1. **Install dependencies:**
    ```bash
@@ -12,10 +14,10 @@ This system ingests a pharmacovigilance adverse-event dataset (ICSR/FAERS-style)
    ```
 
 2. **Configure environment:**
-   Copy `.env.example` to `.env` and add your Anthropic API key:
+   Copy `.env.example` to `.env` and add your Gemini API key:
    ```
-   ANTHROPIC_API_KEY=your_key_here
-   ANTHROPIC_MODEL=claude-sonnet-5
+   GEMINI_API_KEY=your_key_here
+   GEMINI_MODEL=gemini-3.5-flash
    ```
 
 3. **Run the pipeline (standard mode):**
