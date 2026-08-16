@@ -1,0 +1,13 @@
+Write the "Serious Cases / 15-Day Alerts" section of the PADER.
+
+This section analyzes serious and expedited (15-day Alert) cases per 21 CFR 314.80. Cover:
+- Total serious cases and percentage of all cases
+- Total expedited/15-day Alert cases (fulfillexpeditecriteria = yes) and percentage
+- Note that in this dataset, the serious and expedited populations are nearly identical — this is expected for spontaneous ICSR data, not an anomaly
+- Seriousness criteria breakdown (death, life-threatening, hospitalization, disabling, congenital anomaly, other medically important) — note these are independent flags, not mutually exclusive
+- Expectedness (labelled/unlabelled) assessment is out of scope because no product label/CCDS was supplied — state this limitation explicitly
+
+Do not invent case narratives. Present the aggregate data as provided.
+
+EVIDENCE PACKET:
+{evidence_packet}

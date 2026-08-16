@@ -1,0 +1,15 @@
+Write the "Reaction / Adverse Event Analysis" section of the PADER.
+
+This section analyzes the adverse reactions reported during the period. Cover:
+- Most frequently reported reactions overall (with counts)
+- Most frequently reported serious reactions (with counts)
+- Top reactions by age group
+- Top reactions by sex
+- Monthly volume trends and any reaction-specific patterns
+
+Note: Reactions are reported at the MedDRA Preferred Term (PT) level only. System Organ Class (SOC) grouping is unavailable because the dataset does not contain SOC mapping. State this limitation explicitly.
+
+Present reaction data in tables where it improves readability. Do not infer information not present in the evidence packet.
+
+EVIDENCE PACKET:
+{evidence_packet}

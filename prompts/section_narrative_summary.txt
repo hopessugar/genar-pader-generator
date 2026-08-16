@@ -1,0 +1,13 @@
+Write the "Narrative Summary and Analysis" section of the PADER.
+
+This section provides an overall understanding of the safety information received during the reporting period. It should cover:
+- Total case count and serious/non-serious breakdown
+- Most commonly reported reactions (overall and serious)
+- Outcome distribution summary
+- Monthly reporting trends (note any increases or decreases as observations, not conclusions)
+- Any notable observations supported by the data
+
+Remember: distinguish between observed data, derived analysis, and interpretation. Present observations and let the reader draw conclusions.
+
+EVIDENCE PACKET:
+{evidence_packet}

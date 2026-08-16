@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment / secrets
+.env
+
+# Node (if any)
+node_modules/
+
+# Model caches
+.cache/
+*.gguf
+*.bin
+
+# Dataset — do NOT include in submission zip (evaluators already have it)
+*.xlsx
+*.csv
+!output/case_listing.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

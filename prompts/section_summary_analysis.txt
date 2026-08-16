@@ -1,0 +1,14 @@
+Write the "Summary Analysis of Cases" section of the PADER.
+
+This section provides detailed aggregate analysis of the cases received. Present the data in a structured format using tables and lists where appropriate.
+
+Cover the following, using only the numbers in the evidence packet:
+- Case volume: total cases, serious vs. non-serious
+- Patient demographics: age group distribution, sex distribution
+- Geographic distribution: cases by country
+- Outcome distribution
+- Seriousness criteria breakdown (death, life-threatening, hospitalization, disabling, congenital anomaly, other — note these are not mutually exclusive)
+- Reporter type distribution
+
+EVIDENCE PACKET:
+{evidence_packet}

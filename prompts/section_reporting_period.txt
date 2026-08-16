@@ -1,0 +1,12 @@
+Write the "Reporting Period" section of the PADER.
+
+This section identifies the product, reporting period, and report type. It should be brief and factual — just the header information a reviewer needs to orient themselves.
+
+Include:
+- Product name
+- Report type (PADER)
+- Reporting period start and end dates
+- Regulatory basis (21 CFR 314.80)
+
+EVIDENCE PACKET:
+{evidence_packet}

@@ -1,0 +1,16 @@
+Write the "Trends and Important Observations" section of the PADER.
+
+This section identifies meaningful patterns in the reporting data. Cover:
+- Monthly case volume trends (increases, decreases, or stability)
+- Geographic distribution patterns
+- Any notable reaction concentration patterns
+
+CRITICAL: A statistical or numerical pattern is not automatically a safety signal. Present observations factually and allow a qualified reviewer to determine significance. For example:
+
+GOOD: "Reports increased from X cases in [month] to Y cases in [month]."
+BAD: "This increase represents an emerging safety signal."
+
+Only make the second kind of statement if the evidence packet explicitly supports it. Otherwise, present the observation and note that further evaluation may be warranted.
+
+EVIDENCE PACKET:
+{evidence_packet}
